@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abilioassis
 - 👀 I’m interested in problem solving in JavaScript.
-- 🌱 I’m currently learning Algorithms & Data Structures in JavaScript.
+- 🌱 I’m currently learning how to solve computer science problems on the AlgoExpert.com platform using JavaScript.
 - 💞️ I’m looking to collaborate on teaching problem solving with algorithms and data structures using JavaScript.
 - 📫 How to reach me abiliodeassis@gmail.com
 
