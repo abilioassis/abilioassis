@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abilioassis
 - 👀 I’m interested in problem solving in JavaScript.
-- 🌱 I’m currently learning JavaScript and front-end frameowrks.
+- 🌱 I’m currently learning JavaScript and front-end frameworks.
 - 📫 How to reach me abiliodeassis@gmail.com
 
 <!---
