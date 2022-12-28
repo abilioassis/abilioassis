@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abilioassis
 - 👀 I’m interested in front end development.
-- 🌱 I am currently solving frontendmentor.io website programming challenges.
+- 🌱 I am currently solving https://www.frontendmentor.io website programming challenges.
 - 📫 How to reach me abiliodeassis@gmail.com
 
 <!---
